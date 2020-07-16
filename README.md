@@ -7,9 +7,9 @@ The expanding population and rapid urbanisation, in particular in the Global Sou
 
 ## Results
 
-<img src="./res/pic/res.jpg" width = "1000"/>
+<img src="./res/1.png" width = "400"/>
 
-<img src="./res/pic/spider.jpg" width = "600" alt="spider" align=center/>
+<img src="./res/2.png" width = "400" alt="spider" align=center/>
 
 
 ## Paper
@@ -26,5 +26,4 @@ The expanding population and rapid urbanisation, in particular in the Global Sou
     volume={381},
     pages={122643},
     year={2020},
-    publisher={Elsevier}
-     }
+    publisher={Elsevier}}
